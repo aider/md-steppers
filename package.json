@@ -4,8 +4,8 @@
     "description": "Angular-Material Steppers.",
     "main": "./dist/md-steppers.js",
     "dependencies": {
-        "angular": "^1.4.8",
-        "angular-material": "^1.0.9"
+        "angular": "~1.5.3",
+        "angular-material": "https://github.com/aider/bower-material.git#optimize-row"
     },
     "devDependencies": {
         "del": "^2.0.1",
