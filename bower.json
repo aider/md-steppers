@@ -28,6 +28,6 @@
     ],
     "dependencies": {
         "angular": "~1.5.3",
-        "angular-material": "https://github.com/aider/bower-material.git#update.v.1.1.1"
+        "angular-material": "https://github.com/aider/bower-material.git#update-master"
     }
 }
